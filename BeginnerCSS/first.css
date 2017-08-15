@@ -1,0 +1,26 @@
+h1 {
+	color: #00FF00;
+	border-color: green;
+	border-width: 10px;
+	border-style: solid;
+}
+
+
+h4 {
+	color: rgb(100, 100, 0);
+	background: rgba(0, 0, 100, .1);
+}
+
+li {
+	color: rgba(11, 99, 150, .5);
+}
+
+
+body {
+	/*background-color: rgba(255,100,0, .1);*/
+	background: url(http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-21.jpg);
+	/*background-repeat: no-repeat;*/
+	/*background-size: cover;*/
+
+}
+

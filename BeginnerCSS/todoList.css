@@ -1,0 +1,11 @@
+li {
+	border: 2px solid red;
+}
+
+#Finish{
+	background-color: yellow;
+}
+
+.checked{
+	text-decoration: line-through;
+}
